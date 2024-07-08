@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Md. Rashidul Hasan</h1>
+<h1 align="center">I'm Md. Rashidul Hasan</h1>
 <h3 align="center">A passionate Mobile Apps Developer | LIS Automation | SQA From Bangladesh</h3>
 
 - 🌱 I’m currently learning **Software Quality Assurance**
 
-- 💬 Ask me about **Android, LIS Automation, Spring Boot RestAPI, SQA**
+- 💬 Ask me about **Mobile Apps Developer, LIS Automation, Spring Boot RestAPI, SQA**
 
 - 📫 How to reach me **rashed.hlw@gmail.com**
 
