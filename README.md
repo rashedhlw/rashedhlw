@@ -2,14 +2,15 @@
 <h3 align="center">A passionate Mobile Apps Developer | LIS Automation | SQA From Bangladesh</h3>
 
 <p align="center">
-- 🌱 I’m currently learning **Software Quality Assurance**
+- 🌱 I’m currently learning <b>Software Quality Assurance</b>
+</p>p>
 
 - 💬 Ask me about **Mobile Apps Developer, LIS Automation, Spring Boot RestAPI, SQA**
 
 - 📫 How to reach me **rashed.hlw@gmail.com**
 
 - ⚡ Fun fact **Tea tastes way better than Coffee | Change my mind!**
-</p>
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
